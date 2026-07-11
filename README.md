@@ -1,10 +1,12 @@
  📊 Superstore Sales Dashboard (2011–2014)
+ 
+![Superstore Sales Dashboard](Superstore%20Sales%20Dashboard.png)
 
 An interactive Excel dashboard analyzing four years of retail sales data across product categories, regions, and customer segments.
 
 ❓ What Is This Project?
 
-A  fully interactive business intelligence dashboard** built in Microsoft Excel, powered by real transactional data from a fictional superstore. It covers **4 years of sales data (2011–2014) 
+A fully interactive business intelligence dashboard** built in Microsoft Excel, powered by real transactional data from a fictional superstore. It covers **4 years of sales data (2011–2014) 
 
 - 🛍️ Product Categories — Technology, Furniture, Office Supplies
 - 🗺️ Regions — West, East, Central, South
@@ -69,6 +71,3 @@ High sales ≠ High profit. The gap between the two is exactly where smart busin
 - Slicers
 - Charts & Conditional Formatting
 
-👤 Author
-
-Built as a data analytics portfolio project to demonstrate business insight extraction and dashboard design using Excel-based BI tools.
